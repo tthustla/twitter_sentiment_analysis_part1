@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis - part1
+# Another Twitter Sentiment Analysis with Python - Part 1
 
 Attached Jupyter Notebook is the part 1 of the Twitter Sentiment Analysis project I implemented as a capstone project for General Assembly's Data Science Immersive course.
 
